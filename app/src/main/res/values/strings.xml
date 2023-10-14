@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TicketFilmApp</string>
+    <string name="regis">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="checking">By checking the box you agree to our </string>
+    <string name="terms">Terms </string>
+    <string name="and">and </string>
+    <string name="conditions">Conditions</string>
+    <string name="readyAccount">Already Have an Account?</string>
+    <string name="login">Log in</string>
+    <string name="homepage">Homepage</string>
+    <string name="welcome">Welcome</string>
+    <string name="your">Your</string>
+    <string name="hasbeen">has been activated</string>
+    <string name="email2">email</string>
+    <string name="phone2">phone</string>
+    <string name="your2">Your</string>
+    <string name="hasbeen2">has been registered</string>
+    <string name="login2">Login</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgetpw">Forget Password ?</string>
+    <string name="newmember">New Member?</string>
+
+    <string name="sinopsis">Dalam film Lucasfilm Star Wars: The Last Jedi, kisah keluarga Skywalker diteruskan ketika para pahlawan
+        The Force Awakens bergabung dengan para legenda galaksi dalam sebuah petualangan mencengangkan untuk menguak kunci misteri
+        lintas zaman mengenai the Force.</string>
+
+    <array name="bioskop">
+        <item>XXI The Empire</item>
+        <item>XXI Jogja City Mall</item>
+        <item>CGV Hartono Mall</item>
+        <item>XXI Ambarukkmo</item>
+        <item>Cinemaxx Lippo Plaza</item>
+        <item>CGV Transmart Maguwo</item>
+        <item>CGV Blitz J-Walk</item>
+        <item>XXI Sleman City Hall</item>
+    </array>
+    <array name="kursi">
+        <item>Reguler</item>
+        <item>Dobly Atmos</item>
+        <item>Imax</item>
+        <item>The Premiere</item>
+    </array>
+    <array name="metode_bayar">
+        <item>Transfer Bank</item>
+        <item>E-Wallet</item>
+    </array>
+    <array name="Bank">
+        <item>BCA</item>
+        <item>JAGO</item>
+        <item>BRI</item>
+        <item>BNI</item>
+        <item>MANDIRI</item>
+        <item>BTPN</item>
+    </array>
+    <array name="E_wallet">
+        <item>Dana</item>
+        <item>Ovo</item>
+        <item>Shopeepay</item>
+        <item>Gopay</item>
+    </array>
+</resources>
