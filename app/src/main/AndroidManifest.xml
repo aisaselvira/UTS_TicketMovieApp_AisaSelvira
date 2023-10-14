@@ -16,13 +16,7 @@
             android:name=".FifthhActivity"
             android:exported="false" />
         <activity
-            android:name=".FiveActivity"
-            android:exported="false" />
-        <activity
             android:name=".LastActivity"
-            android:exported="false" />
-        <activity
-            android:name=".FifthActivity"
             android:exported="false" />
         <activity
             android:name=".FourthActivity"
